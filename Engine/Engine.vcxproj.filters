@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Memory">
+      <UniqueIdentifier>{8297ef5f-9125-402f-bfee-da73a3f872ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Events">
+      <UniqueIdentifier>{a36ec38f-98f1-4204-9138-4e5d6a98b099}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Input/Output">
+      <UniqueIdentifier>{473429b0-0311-40ca-aa71-dc4d504fc4b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Renderer">
+      <UniqueIdentifier>{d4721882-a95b-46e7-bb59-c1f3631b0c8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Structure">
+      <UniqueIdentifier>{d26f8cad-130a-429a-b8cf-704f7e01d3e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Math">
+      <UniqueIdentifier>{076e0818-a72a-4193-8770-20ba1f5309f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{bc73a5f0-2e83-42dc-bc28-16fbdddd3d63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Transform">
+      <UniqueIdentifier>{fd320bd3-e198-4219-9570-18944980ff7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets">
+      <UniqueIdentifier>{ea857d8c-6092-4f3a-9231-e825c68ced28}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="event_handling.c">
+      <Filter>Events</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer.c">
+      <Filter>Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="math_functions.c">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="game.c">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="transform.c">
+      <Filter>Transform</Filter>
+    </ClCompile>
+    <ClCompile Include="asset_manager.c">
+      <Filter>Main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="memory_management.h">
+      <Filter>Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="event_handling.h">
+      <Filter>Events</Filter>
+    </ClInclude>
+    <ClInclude Include="engine_io.h">
+      <Filter>Input/Output</Filter>
+    </ClInclude>
+    <ClInclude Include="renderer.h">
+      <Filter>Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="structures.h">
+      <Filter>Structure</Filter>
+    </ClInclude>
+    <ClInclude Include="math_functions.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="transform.h">
+      <Filter>Transform</Filter>
+    </ClInclude>
+    <ClInclude Include="asset_manager.h">
+      <Filter>Assets</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

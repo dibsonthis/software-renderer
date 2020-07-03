@@ -1,0 +1,41 @@
+﻿  asset_manager.c
+C:\dev\C\Games\Engine\Engine\Engine\asset_manager.c(82,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\asset_manager.c(110,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  game.c
+  main.c
+C:\dev\C\Games\Engine\Engine\Engine\main.c(126,34): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+  renderer.c
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(9,35): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(9,43): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(10,35): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(10,43): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(11,35): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(11,43): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(12,35): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(12,43): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(14,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(106,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(107,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(118,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(119,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(130,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(131,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(142,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(143,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(177,16): warning C4101: 'v3': unreferenced local variable
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(176,16): warning C4101: 'v2': unreferenced local variable
+C:\dev\C\Games\Engine\Engine\Engine\renderer.c(175,16): warning C4101: 'v1': unreferenced local variable
+  transform.c
+C:\dev\C\Games\Engine\Engine\Engine\transform.c(7,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\transform.c(34,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\transform.c(42,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\transform.c(50,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\transform.c(178,170): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\transform.c(179,171): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\dev\C\Games\Engine\Engine\Engine\transform.c(180,159): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  9 of 38 functions (23.7%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Engine.vcxproj -> C:\dev\C\Games\Engine\Engine\x64\Release\Engine.exe
